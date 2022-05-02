@@ -1,0 +1,17 @@
+numpy~=1.19.5
+tensorlayer~=2.2.5
+scikit-learn~=1.0.2
+keras~=2.6.0
+requests~=2.27.1
+pip~=21.2.2
+pillow~=9.1.0
+six~=1.15.0
+matplotlib~=3.5.1
+gym~=0.23.1
+scipy~=1.8.0
+setuptools~=61.2.0
+cloudpickle~=2.0.0
+h5py~=3.1.0
+scikit-image~=0.19.2
+wrapt~=1.12.1
+imageio~=2.18.0
